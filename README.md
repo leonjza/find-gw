@@ -5,7 +5,7 @@ A bash script to check if you have a gateway that could get you somewhere nice.
 ## usage
 
 First, make sure you have [`nping`](https://nmap.org/nping/).  
-Next, sownload the script and run it. `nping` is going to want root for icmp, so use `sudo` or something similar.
+Next, download the script and run it. `nping` is going to want root for icmp, so use `sudo` or something similar.
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/leonjza/find-gw/master/find-gw.sh -o find-gw.sh
